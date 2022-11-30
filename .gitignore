@@ -1,0 +1,5 @@
+presentations/*.key
+scripts/.ipynb_checkpoints*
+.DS_Store
+**/presentations/*.key
+**/scripts/.ipynb_checkpoints/*
